@@ -1,0 +1,32 @@
+.hidden {
+    display: none; 
+}
+
+.container {
+    max-width: 960px; 
+    margin: 2rem auto; 
+    padding: 2rem; 
+}
+
+#start-screen h1 {
+    font-size: 3.5rem;
+}
+
+.q-grid {
+    display: grid; 
+    gap: 0.5rem;  
+}
+
+.end-icon span {
+    font-size: 4.5rem; 
+}
+
+.score-box {
+    padding: 1.5rem; 
+    margin: 1.5rem auto; 
+    max-width: 500px; 
+}
+
+#score-final {
+    font-size: 2rem; 
+}

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <!-- Déclaration du type de document et de la langue -->
+    <meta charset="UTF-8">
+    <!-- Définition de l'encodage des caractères pour supporter le français -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Configuration pour le responsive design sur les appareils mobiles -->
+    <title>PokéQuiz - Apprendre</title>
+    <!-- Titre de la page affiché dans l'onglet du navigateur -->
+
+    <!-- Inclusion de Bootstrap CSS pour le styling -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Inclusion des icônes Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+</head>
+
+<!-- Corps de la page avec couleur de fond personnalisée -->
+<body style="background-color: hwb(34 84% 2%);" onload="loadXMLDoc()">
+    <!-- Conteneur principal Bootstrap avec padding vertical -->
+    <div class="container py-3">
+
+        <!-- En-tête centré avec le titre principal -->
+        <div class="text-center mb-3">
+            <h1 class="display-4 text-primary">
+                <!-- Icône et nom de l'application -->
+                <i class="bi bi-journal-bookmark-fill"></i> PokéQuiz
+            </h1>
+        </div>
+
+        <!-- Section principale centrée -->
+        <div class="row justify-content-center">
+            <div class="col-10">
+
+                <!-- Carte pour les contrôles de recherche et filtrage -->
+                <div class="card mb-3">
+                    <div class="card-body bg-white">
+                        <div class="row ">
+
+                            <!-- Colonne pour la recherche par mot-clé -->
+                            <div class="col-4">
+                                <label for="searchInput" class="form-label">Rechercher :</label>
+                                <!-- Champ de recherche avec événement onkeyup -->
+                                <input 
+                                    type="text" 
+                                    id="searchInput" 
+                                    class="form-control"
+                                    placeholder="🔍 Mot-clé (ex : Pikachu, feu, attaque...)"
+                                    onkeyup="rechercher()">
+                            </div>
+
+                            <!-- Colonne pour le filtre par type de Pokémon -->
+                            <div class="col-4">
+                                <label for="thematique" class="form-label">Filtrer par type :</label>
+                                <!-- Menu déroulant pour sélectionner le type -->
+                                <select id="thematique" class="form-select" onchange="filtrerData()">
+                                    <option value="Tout">Tous les types</option>
+                                    <option value="Feu">Feu</option>
+                                    <option value="Eau">Eau</option>
+                                    <option value="Plante">Plante</option>
+                                    <option value="Électrik">Électrik</option>
+                                </select>
+                            </div>
+
+                            <!-- Colonne pour le tri des données -->
+                            <div class="col-4">
+                                <label for="tri" class="form-label">Trier par :</label>
+                                <!-- Menu déroulant pour choisir le critère de tri -->
+                                <select id="tri" class="form-select" onchange="sortData()">
+                                    <option value="">-- Aucun --</option>
+                                    <option value="points">Nombre de points</option>
+                                </select>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Carte principale pour le tableau des données -->
+                <div class="card">
+                    <!-- Conteneur responsive avec défilement vertical -->
+                    <div class="table-responsive overflow-auto" style="max-height:60vh;">
+                        <table id="data" class="table">
+                            <!-- En-tête du tableau fixé en haut pendant le défilement -->
+                            <thead class="table-dark sticky-top">
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Image</th>
+                                    <th>Question</th>
+                                    <th>Thématique</th>
+                                    <th>Bonne Réponse</th>
+                                    <th>Points</th>
+                                    <th>Détails</th>
+                                </tr>
+                            </thead>
+
+                            <!-- Corps du tableau où les données seront injectées dynamiquement -->
+                            <tbody id="table-body"></tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Pagination pour naviguer entre les pages de résultats -->
+                <nav aria-label="Navigation" class="mt-2">
+                    <ul id="pagination" class="pagination justify-content-center flex-wrap"></ul>
+                </nav>
+
+            </div>
+        </div>
+    </div>
+
+    <!-- Inclusion de Bootstrap JavaScript (avec Popper) -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Inclusion du fichier JavaScript personnalisé -->
+    <script src="js/scripts.js"></script>
+</body>
+
+</html>

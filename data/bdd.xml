@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+
+    <question>
+        <id>1</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quel Pokémon de type Feu est le premier starter de Kanto ?</contenu>
+        <reponse1>Bulbizarre</reponse1>
+        <reponse2>Carapuce</reponse2>
+        <reponse3>Pikachu</reponse3>
+        <bonne_reponse>Salamèche</bonne_reponse>
+        <point>1</point>
+        <explication>Salamèche est le starter Feu de Kanto. Sa flamme sur la queue indique son état de santé - si elle s'éteint, le Pokémon meurt.</explication>
+    </question>
+    <question>
+        <id>2</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quel Pokémon de type Feu et Vol est l'évolution finale de Salamèche ?</contenu>
+        <reponse1>Reptincel</reponse1>
+        <reponse2>Dracolosse</reponse2>
+        <reponse3>Pyroli</reponse3>
+        <bonne_reponse>Dracaufeu</bonne_reponse>
+        <point>1</point>
+        <explication>Dracaufeu peut voler à 1400m d'altitude et crache des flammes à 2000°C. Son Méga-Evolution lui donne le type Dragon.</explication>
+    </question>
+    <question>
+        <id>3</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/059.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quel Pokémon Feu est souvent appelé "le légendaire" sans en être un ?</contenu>
+        <reponse1>Goupix</reponse1>
+        <reponse2>Feunard</reponse2>
+        <reponse3>Caninos</reponse3>
+        <bonne_reponse>Arcanin</bonne_reponse>
+        <point>2</point>
+        <explication>Arcanin peut parcourir 10 000 km en un jour. Dans le Pokédex original, il était classé comme Pokémon légendaire.</explication>
+    </question>
+    <question>
+        <id>4</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/078.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quelle est l'évolution de Ponyta, le Pokémon cheval de feu ?</contenu>
+        <reponse1>Zéblitz</reponse1>
+        <reponse2>Bourrinos</reponse2>
+        <reponse3>Galoppa</reponse3>
+        <bonne_reponse>Galopa</bonne_reponse>
+        <point>1</point>
+        <explication>Galopa atteint 240 km/h en 10 foulées. Sa crinière flamboyante brille intensément quand il court à pleine vitesse.</explication>
+    </question>
+    <question>
+        <id>5</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quel Pokémon Feu évolue d'Évoli avec une Pierre Feu ?</contenu>
+        <reponse1>Voltali</reponse1>
+        <reponse2>Aquali</reponse2>
+        <reponse3>Mentali</reponse3>
+        <bonne_reponse>Pyroli</bonne_reponse>
+        <point>1</point>
+        <explication>Pyroli a une température corporelle de 900°C. Il stocke la chaleur dans sa poche de flammes et peut cracher du feu à 1700°C.</explication>
+    </question>
+    <question>
+        <id>6</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/146.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quel oiseau légendaire Feu/Vol a un plumage sacré ?</contenu>
+        <reponse1>Artikodin</reponse1>
+        <reponse2>Électhor</reponse2>
+        <reponse3>Lugia</reponse3>
+        <bonne_reponse>Sulfura</bonne_reponse>
+        <point>2</point>
+        <explication>Sulfura est l'un des trois oiseaux légendaires de Kanto. On dit que son apparition annonce l'arrivée du printemps.</explication>
+    </question>
+    <question>
+        <id>7</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/250.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quel Pokémon légendaire Feu/Vol a un plumage arc-en-ciel ?</contenu>
+        <reponse1>Lugia</reponse1>
+        <reponse2>Rayquaza</reponse2>
+        <reponse3>Yveltal</reponse3>
+        <bonne_reponse>Ho-Oh</bonne_reponse>
+        <point>1</point>
+        <explication>Ho-Oh signifie "Phénix" en japonais. Son plumage aux 7 couleurs représente les éléments naturels.</explication>
+    </question>
+    <question>
+        <id>8</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/485.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quel Pokémon légendaire Feu/Acier vit dans les volcans ?</contenu>
+        <reponse1>Groudon</reponse1>
+        <reponse2>Entei</reponse2>
+        <reponse3>Volcanion</reponse3>
+        <bonne_reponse>Heatran</bonne_reponse>
+        <point>2</point>
+        <explication>Heatran a un corps en acier trempé dans la lave. Il peut contrôler le magma et vit dans le cratère du Mont Couronné.</explication>
+    </question>
+    <question>
+        <id>9</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/637.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quel Pokémon légendaire Feu/Insecte est le "Roi du Feu" ?</contenu>
+        <reponse1>Genesect</reponse1>
+        <reponse2>Cizayox</reponse2>
+        <reponse3>Pyronille</reponse3>
+        <bonne_reponse>Pyrax</bonne_reponse>
+        <point>1</point>
+        <explication>Pyrax est basé sur le papillon flamme. Il peut créer des tourbillons de feu en battant des ailes à 200 km/h.</explication>
+    </question>
+    <question>
+        <id>10</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/815.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quel Pokémon Feu de Galar est le starter feu ?</contenu>
+        <reponse1>Ouistempo</reponse1>
+        <reponse2>Larméléon</reponse2>
+        <reponse3>Poussifeu</reponse3>
+        <bonne_reponse>Flambino</bonne_reponse>
+        <point>1</point>
+        <explication>Flambino est un Pokémon espiègle. Sa fourrure est ignifugée et il utilise sa queue enflammée pour communiquer.</explication>
+    </question>
+    <question>
+        <id>11</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/126.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quel Pokémon de type Feu a une apparence humanoïde et évolue de Magby ?</contenu>
+        <reponse1>Magmar</reponse1>
+        <reponse2>Élektek</reponse2>
+        <reponse3>Lippoutou</reponse3>
+        <bonne_reponse>Magby</bonne_reponse>
+        <point>1</point>
+        <explication>Magmar est l'évolution de Magby. Il vit près des volcans et son corps atteint des températures de 1200°C.</explication>
+    </question>
+    <question>
+        <id>12</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/157.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quelle est l'évolution finale d'Héricendre, le starter Feu de Johto ?</contenu>
+        <reponse1>Feurisson</reponse1>
+        <reponse2>Braségali</reponse2>
+        <reponse3>Dracaufeu</reponse3>
+        <bonne_reponse>Typhlosion</bonne_reponse>
+        <point>2</point>
+        <explication>Typhlosion crée des explosions de feu en frottant sa fourrure. Il peut générer un souffle brûlant qui réduit tout en cendres.</explication>
+    </question>
+    <question>
+        <id>13</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/244.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quel Pokémon légendaire de type Feu fait partie du trio des "fauves légendaires" de Johto ?</contenu>
+        <reponse1>Raikou</reponse1>
+        <reponse2>Suicune</reponse2>
+        <reponse3>Ho-Oh</reponse3>
+        <bonne_reponse>Entei</bonne_reponse>
+        <point>1</point>
+        <explication>Entei est l'un des trois fauves ressuscités par Ho-Oh. On dit qu'un volcan entre en éruption à chaque fois qu'il aboie.</explication>
+    </question>
+    <question>
+        <id>14</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/257.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quelle est l'évolution finale de Poussifeu, qui gagne le type Combat ?</contenu>
+        <reponse1>Jungko</reponse1>
+        <reponse2>Laggron</reponse2>
+        <reponse3>Simiabraz</reponse3>
+        <bonne_reponse>Braségali</bonne_reponse>
+        <point>2</point>
+        <explication>Braségali (Feu/Combat) est l'évolution finale de Poussifeu. Il peut sauter par-dessus un immeuble de 30 étages.</explication>
+    </question>
+    <question>
+        <id>15</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/324.png</image>
+        <thematique>Feu</thematique>
+        <contenu>Quel Pokémon tortue de type Feu de Hoenn stocke du charbon dans sa carapace ?</contenu>
+        <reponse1>Carapuce</reponse1>
+        <reponse2>Torterra</reponse2>
+        <reponse3>Boumata</reponse3>
+        <bonne_reponse>Chartor</bonne_reponse>
+        <point>1</point>
+        <explication>Chartor brûle du charbon dans sa carapace pour générer de l'énergie. Il crache une épaisse fumée noire.</explication>
+    </question>
+    
+    <question>
+        <id>16</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quel Pokémon Eau est le starter de Kanto ?</contenu>
+        <reponse1>Bulbizarre</reponse1>
+        <reponse2>Salamèche</reponse2>
+        <reponse3>Psykokwak</reponse3>
+        <bonne_reponse>Carapuce</bonne_reponse>
+        <point>2</point>
+        <explication>Carapuce peut rentrer dans sa carapace pour se protéger. Elle grandit en absorbant l'eau et les nutriments.</explication>
+    </question>
+    <question>
+        <id>17</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quelle est l'évolution finale de Carapuce ?</contenu>
+        <reponse1>Carabaffe</reponse1>
+        <reponse2>Aligatueur</reponse2>
+        <reponse3>Laggron</reponse3>
+        <bonne_reponse>Tortank</bonne_reponse>
+        <point>1</point>
+        <explication>Tortank pèse 85kg et ses canons hydro peuvent tirer à 100m de distance avec une précision chirurgicale.</explication>
+    </question>
+    <question>
+        <id>18</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quelle est l'évolution de Magicarpe ?</contenu>
+        <reponse1>Poissirène</reponse1>
+        <reponse2>Hypotrempe</reponse2>
+        <reponse3>Milobellus</reponse3>
+        <bonne_reponse>Léviator</bonne_reponse>
+        <point>1</point>
+        <explication>Léviator peut déclencher des ouragans. Sa rage destructrice est légendaire dans le monde Pokémon.</explication>
+    </question>
+    <question>
+        <id>19</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/131.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quel Pokémon Eau/Glace transporte des passagers ?</contenu>
+        <reponse1>Lamantine</reponse1>
+        <reponse2>Obalie</reponse2>
+        <reponse3>Kaimorse</reponse3>
+        <bonne_reponse>Lokhlass</bonne_reponse>
+        <point>1</point>
+        <explication>Lokhlass sauve les naufragés. Sa berceuse mélodieuse endort même les Pokémon les plus agressifs.</explication>
+    </question>
+    <question>
+        <id>20</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quel Pokémon Eau évolue d'Évoli avec une Pierre Eau ?</contenu>
+        <reponse1>Pyroli</reponse1>
+        <reponse2>Voltali</reponse2>
+        <reponse3>Givrali</reponse3>
+        <bonne_reponse>Aquali</bonne_reponse>
+        <point>2</point>
+        <explication>Aquali peut prédire la pluie et contrôler les molécules d'eau. Ses cellules sont similaires à l'eau pure.</explication>
+    </question>
+    <question>
+        <id>21</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/382.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quel Pokémon légendaire Eau élargit les océans ?</contenu>
+        <reponse1>Groudon</reponse1>
+        <reponse2>Rayquaza</reponse2>
+        <reponse3>Palkia</reponse3>
+        <bonne_reponse>Kyogre</bonne_reponse>
+        <point>1</point>
+        <explication>Kyogre a créé les océans. En Primo-Résurgence, il peut provoquer 40 jours de pluie torrentielle.</explication>
+    </question>
+    <question>
+        <id>22</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/489.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quel Pokémon mythique Eau flotte à la dérive ?</contenu>
+        <reponse1>Manaphy</reponse1>
+        <reponse2>Jirachi</reponse2>
+        <reponse3>Victini</reponse3>
+        <bonne_reponse>Phione</bonne_reponse>
+        <point>2</point>
+        <explication>Phione naît quand Manaphy pond dans l'eau. Il communique par bio-luminescence avec ses antennes.</explication>
+    </question>
+    <question>
+        <id>23</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/730.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quel Pokémon Eau/Fée d'Alola est l'évolution d'Otarlette ?</contenu>
+        <reponse1>Otaquin</reponse1>
+        <reponse2>Archéduc</reponse2>
+        <reponse3>Félinferno</reponse3>
+        <bonne_reponse>Oratoria</bonne_reponse>
+        <point>1</point>
+        <explication>Oratoria danse gracieusement. Ses mouvements hypnotisent ses adversaires pendant le combat.</explication>
+    </question>
+    <question>
+        <id>24</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/800.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quel ultra-chimère Eau/Psychique a créé les îles d'Alola ?</contenu>
+        <reponse1>Zéroïd</reponse1>
+        <reponse2>Mouscoto</reponse2>
+        <reponse3>Engloutyran</reponse3>
+        <bonne_reponse>Necrozma</bonne_reponse>
+        <point>1</point>
+        <explication>Necrozma absorbe la lumière. Sous forme Aube, il fusionne avec Solgaleo pour créer l'énergie d'Alola.</explication>
+    </question>
+    <question>
+        <id>25</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/906.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quel Pokémon Eau de Paldea est le starter eau ?</contenu>
+        <reponse1>Poussacha</reponse1>
+        <reponse2>Chochodile</reponse2>
+        <reponse3>Tiplouf</reponse3>
+        <bonne_reponse>Coiffeton</bonne_reponse>
+        <point>1</point>
+        <explication>Coiffeton est un canard fier. Sa mèche de cheveux est faite d'eau gelée et indique son état émotionnel.</explication>
+    </question>
+    <question>
+        <id>26</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/121.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quel Pokémon Eau/Psy en forme d'étoile de mer évolue de Stari avec une Pierre Eau ?</contenu>
+        <reponse1>Tentacruel</reponse1>
+        <reponse2>Flagadoss</reponse2>
+        <reponse3>Crustabri</reponse3>
+        <bonne_reponse>Staross</bonne_reponse>
+        <point>2</point>
+        <explication>Staross est l'évolution de Stari. Son noyau central brille de sept couleurs et émet d'étranges ondes radio.</explication>
+    </question>
+    <question>
+        <id>27</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/119.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quel Pokémon poisson de type Eau, évolution de Poissirène, possède une corne frontale ?</contenu>
+        <reponse1>Léviator</reponse1>
+        <reponse2>Sharpedo</reponse2>
+        <reponse3>Hyporoi</reponse3>
+        <bonne_reponse>Poissoroy</bonne_reponse>
+        <point>1</point>
+        <explication>Poissoroy est l'évolution de Poissirène. Il utilise sa corne acérée pour creuser dans les rochers des rivières.</explication>
+    </question>
+    <question>
+        <id>28</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/160.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quelle est l'évolution finale de Kaiminus, le starter Eau de Johto ?</contenu>
+        <reponse1>Crocrodil</reponse1>
+        <reponse2>Laggron</reponse2>
+        <reponse3>Tortank</reponse3>
+        <bonne_reponse>Aligatueur</bonne_reponse>
+        <point>1</point>
+        <explication>Aligatueur est l'évolution de Kaiminus. Ses mâchoires puissantes peuvent broyer n'importe quoi en un instant.</explication>
+    </question>
+    <question>
+        <id>29</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/260.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quelle est l'évolution finale de Gobou, qui gagne le type Sol ?</contenu>
+        <reponse1>Braségali</reponse1>
+        <reponse2>Jungko</reponse2>
+        <reponse3>Aligatueur</reponse3>
+        <bonne_reponse>Laggron</bonne_reponse>
+        <point>1</point>
+        <explication>Laggron (Eau/Sol) est l'évolution finale de Gobou. Il peut prédire les tsunamis et soulever des rochers de plus d'une tonne.</explication>
+    </question>
+    <question>
+        <id>30</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/350.png</image>
+        <thematique>Eau</thematique>
+        <contenu>Quel Pokémon Eau, réputé pour sa beauté, évolue du "moche" Barpau ?</contenu>
+        <reponse1>Léviator</reponse1>
+        <reponse2>Lokhlass</reponse2>
+        <reponse3>Aquali</reponse3>
+        <bonne_reponse>Milobellus</bonne_reponse>
+        <point>2</point>
+        <explication>Milobellus évolue de Barpau (en montant sa Beauté ou par échange avec Bel'Écaille). Il est considéré comme le plus beau Pokémon.</explication>
+    </question>
+    
+   
+
+    <question>
+        <id>31</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quel Pokémon Plante/Poison est le starter de Kanto ?</contenu>
+        <reponse1>Salamèche</reponse1>
+        <reponse2>Carapuce</reponse2>
+        <reponse3>Germignon</reponse3>
+        <bonne_reponse>Bulbizarre</bonne_reponse>
+        <point>2</point>
+        <explication>Le bulbe de Bulbizarre grossit en absorbant la lumière solaire. Il libère un doux parfum quand il est heureux.</explication>
+    </question>
+    <question>
+        <id>32</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quelle est l'évolution finale de Bulbizarre ?</contenu>
+        <reponse1>Herbizarre</reponse1>
+        <reponse2>Rafflesia</reponse2>
+        <reponse3>Empiflor</reponse3>
+        <bonne_reponse>Florizarre</bonne_reponse>
+        <point>1</point>
+        <explication>Florizarre pèse 100kg. Sa fleur absorbe l'énergie solaire et peut créer des tempêtes de pollen toxique.</explication>
+    </question>
+    <question>
+        <id>33</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/114.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quel Pokémon Plante a des lianes bleues ?</contenu>
+        <reponse1>Boustiflor</reponse1>
+        <reponse2>Mystherbe</reponse2>
+        <reponse3>Chetiflor</reponse3>
+        <bonne_reponse>Saquedeneu</bonne_reponse>
+        <point>1</point>
+        <explication>Saquedeneu utilise ses lianes pour attraper ses proies. Ses yeux rouges peuvent hypnotiser ses ennemis.</explication>
+    </question>
+    <question>
+        <id>34</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/182.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quel Pokémon Plante danse en secouant ses pétales ?</contenu>
+        <reponse1>Rafflesia</reponse1>
+        <reponse2>Fragilady</reponse2>
+        <reponse3>Ceriflor</reponse3>
+        <bonne_reponse>Joliflor</bonne_reponse>
+        <point>2</point>
+        <explication>Joliflor danse quand il est heureux. Ses pétales libèrent une poudre revitalisante pour l'environnement.</explication>
+    </question>
+    <question>
+        <id>35</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/460.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quel Pokémon Plante/Glace crée des blizzards ?</contenu>
+        <reponse1>Blizzaroi</reponse1>
+        <reponse2>Sorbébé</reponse2>
+        <reponse3>Givrali</reponse3>
+        <bonne_reponse>Blizzi</bonne_reponse>
+        <point>2</point>
+        <explication>Blizzi est l'évolution de Momartik. Il peut créer des tempêtes de neige en agitant ses bras comme des branches.</explication>
+    </question>
+    <question>
+        <id>36</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/470.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quel Pokémon Plante change de forme selon le climat ?</contenu>
+        <reponse1>Ceriflor</reponse1>
+        <reponse2>Haydaim</reponse2>
+        <reponse3>Vivaldaim</reponse3>
+        <bonne_reponse>Phyllali</bonne_reponse>
+        <point>1</point>
+        <explication>Phyllali a 4 formes selon la météo. Sa capacité Photosynthèse le soigne par temps ensoleillé.</explication>
+    </question>
+    <question>
+        <id>37</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/492.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quel Pokémon mythique Plante peut fleurir le monde ?</contenu>
+        <reponse1>Celebi</reponse1>
+        <reponse2>Mew</reponse2>
+        <reponse3>Jirachi</reponse3>
+        <bonne_reponse>Shaymin</bonne_reponse>
+        <point>3</point>
+        <explication>Shaymin purifie l'air pollué. En forme Céléste, il peut faire fleurir un champ entier en une seconde.</explication>
+    </question>
+    <question>
+        <id>38</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/810.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quel Pokémon Plante de Galar est le starter plante ?</contenu>
+        <reponse1>Flambino</reponse1>
+        <reponse2>Larméléon</reponse2>
+        <reponse3>Brindibou</reponse3>
+        <bonne_reponse>Ouistempo</bonne_reponse>
+        <point>1</point>
+        <explication>Ouistempo utilise sa branche comme instrument. En battant le rythme, il contrôle la croissance des plantes.</explication>
+    </question>
+    <question>
+        <id>39</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/045.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quel Pokémon Plante/Poison, évolution d'Ortide, utilise une Pierre Plante pour évoluer ?</contenu>
+        <reponse1>Joliflor</reponse1>
+        <reponse2>Empiflor</reponse2>
+        <reponse3>Florizarre</reponse3>
+        <bonne_reponse>Rafflesia</bonne_reponse>
+        <point>2</point>
+        <explication>Rafflesia évolue d'Ortide avec une Pierre Plante. Il possède les plus grands pétales du monde, qui diffusent un pollen allergène.</explication>
+    </question>
+    <question>
+        <id>40</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/071.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quel Pokémon Plante/Poison, évolution de Boustiflor, utilise une Pierre Plante pour évoluer ?</contenu>
+        <reponse1>Rafflesia</reponse1>
+        <reponse2>Noadkoko</reponse2>
+        <reponse3>Cotovol</reponse3>
+        <bonne_reponse>Empiflor</bonne_reponse>
+        <point>1</point>
+        <explication>Empiflor évolue de Boustiflor avec une Pierre Plante. Il attire ses proies avec un doux parfum avant de les dissoudre avec de l'acide.</explication>
+    </question>
+    <question>
+        <id>41</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/103.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quel Pokémon Plante/Psy de Kanto, évolution de Noeunoeuf, ressemble à un cocotier ?</contenu>
+        <reponse1>Rafflesia</reponse1>
+        <reponse2>Tropius</reponse2>
+        <reponse3>Ludicolo</reponse3>
+        <bonne_reponse>Noadkoko</bonne_reponse>
+        <point>1</point>
+        <explication>Noadkoko évolue de Noeunoeuf avec une Pierre Plante. Chacune de ses trois têtes pense de manière indépendante.</explication>
+    </question>
+    <question>
+        <id>42</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/154.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quelle est l'évolution finale de Germignon, le starter Plante de Johto ?</contenu>
+        <reponse1>Macronium</reponse1>
+        <reponse2>Jungko</reponse2>
+        <reponse3>Florizarre</reponse3>
+        <bonne_reponse>Méganium</bonne_reponse>
+        <point>1</point>
+        <explication>Méganium est l'évolution de Germignon. Le parfum de sa fleur peut apaiser les esprits combatifs.</explication>
+    </question>
+    <question>
+        <id>43</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/254.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quelle est l'évolution finale d'Arcko, le starter Plante de Hoenn ?</contenu>
+        <reponse1>Laggron</reponse1>
+        <reponse2>Braségali</reponse2>
+        <reponse3>Massko</reponse3>
+        <bonne_reponse>Jungko</bonne_reponse>
+        <point>1</point>
+        <explication>Jungko est l'évolution d'Arcko. Il possède des lames tranchantes sur les bras et se déplace à une vitesse incroyable dans la jungle.</explication>
+    </question>
+    <question>
+        <id>44</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/389.png</image>
+        <thematique>Plante</thematique>
+        <contenu>Quelle est l'évolution finale de Tortipouss, qui gagne le type Sol ?</contenu>
+        <reponse1>Pingoléon</reponse1>
+        <reponse2>Simiabraz</reponse2>
+        <reponse3>Florizarre</reponse3>
+        <bonne_reponse>Torterra</bonne_reponse>
+        <point>1</point>
+        <explication>Torterra (Plante/Sol) est l'évolution de Tortipouss. Des petits Pokémon viennent parfois vivre sur l'arbre sur son dos.</explication>
+    </question>
+  
+    <question>
+        <id>45</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quel Pokémon est la mascotte officielle ?</contenu>
+        <reponse1>Évoli</reponse1>
+        <reponse2>Miaouss</reponse2>
+        <reponse3>Dracaufeu</reponse3>
+        <bonne_reponse>Pikachu</bonne_reponse>
+        <point>2</point>
+        <explication>Pikachu stocke l'électricité dans ses joues. Un Pikachu sauvage peut générer 100 000 volts.</explication>
+    </question>
+    <question>
+        <id>46</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quelle est l'évolution de Pikachu ?</contenu>
+        <reponse1>Pichu</reponse1>
+        <reponse2>Dedenne</reponse2>
+        <reponse3>Posipi</reponse3>
+        <bonne_reponse>Raichu</bonne_reponse>
+        <point>1</point>
+        <explication>Raichu peut libérer 100 000 volts. Sa queue agit comme une prise de terre pour éviter l'électrocution.</explication>
+    </question>
+    <question>
+        <id>47</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quel Pokémon Électrik évolue d'Évoli avec une Pierre Foudre ?</contenu>
+        <reponse1>Pyroli</reponse1>
+        <reponse2>Aquali</reponse2>
+        <reponse3>Noctali</reponse3>
+        <bonne_reponse>Voltali</bonne_reponse>
+        <point>2</point>
+        <explication>Voltali génère 10 000 volts. Ses poils se hérissent comme des aiguilles quand il se charge d'électricité.</explication>
+    </question>
+    <question>
+        <id>48</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/145.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quel oiseau légendaire Électrik/Vol crée des orages ?</contenu>
+        <reponse1>Sulfura</reponse1>
+        <reponse2>Artikodin</reponse2>
+        <reponse3>Lugia</reponse3>
+        <bonne_reponse>Électhor</bonne_reponse>
+        <point>1</point>
+        <explication>Électhor apparaît pendant les orages. On dit qu'il se recharge en absorbant la foudre.</explication>
+    </question>
+    <question>
+        <id>49</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/310.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quel Pokémon Électrik est l'évolution d'Élecsprint ?</contenu>
+        <reponse1>Luxray</reponse1>
+        <reponse2>Pharamp</reponse2>
+        <reponse3>Zéblitz</reponse3>
+        <bonne_reponse>Élekable</bonne_reponse>
+        <point>1</point>
+        <explication>Élekable peut produire assez d'électricité pour alimenter une grande ville pendant un an.</explication>
+    </question>
+    <question>
+        <id>50</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/644.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quel Pokémon légendaire Électrik/Dragon représente l'idéal ?</contenu>
+        <reponse1>Reshiram</reponse1>
+        <reponse2>Kyurem</reponse2>
+        <reponse3>Rayquaza</reponse3>
+        <bonne_reponse>Zekrom</bonne_reponse>
+        <point>3</point>
+        <explication>Zekrom peut créer des orages. Sa queue agit comme une génératrice et stocke l'électricité atmosphérique.</explication>
+    </question>
+    <question>
+        <id>51</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/777.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quel Pokémon Électrik/Acier de la 7G est sphérique ?</contenu>
+        <reponse1>Pikachu</reponse1>
+        <reponse2>Dedenne</reponse2>
+        <reponse3>Emolga</reponse3>
+        <bonne_reponse>Togedemaru</bonne_reponse>
+        <point>2</point>
+        <explication>Togedemaru se roule en boule pour se défendre. Ses piquants déchargent l'électricité statique.</explication>
+    </question>
+    <question>
+        <id>52</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/888.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quel Pokémon légendaire Électrik de Galar a une crinière ?</contenu>
+        <reponse1>Zamazenta</reponse1>
+        <reponse2>Éthernatos</reponse2>
+        <reponse3>Shifours</reponse3>
+        <bonne_reponse>Zacian</bonne_reponse>
+        <point>1</point>
+        <explication>Zacian est le Héros aux Mille Lames. Son épée peut trancher n'importe quoi, même l'espace-temps.</explication>
+    </question>
+    <question>
+        <id>53</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/101.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quel Pokémon Électrik, évolution de Voltorbe, est connu pour utiliser l'attaque Explosion ?</contenu>
+        <reponse1>Smogogo</reponse1>
+        <reponse2>Grolem</reponse2>
+        <reponse3>Magnézone</reponse3>
+        <bonne_reponse>Électrode</bonne_reponse>
+        <point>1</point>
+        <explication>Électrode est l'évolution de Voltorbe. Il se nourrit d'électricité et explose au moindre choc par simple amusement.</explication>
+    </question>
+    <question>
+        <id>54</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/082.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quel Pokémon Électrik/Acier de Kanto est composé de trois Magnéti assemblés ?</contenu>
+        <reponse1>Magnézone</reponse1>
+        <reponse2>Électrode</reponse2>
+        <reponse3>Motisma</reponse3>
+        <bonne_reponse>Magnéton</bonne_reponse>
+        <point>1</point>
+        <explication>Magnéton est l'évolution de Magnéti. Les trois aimants sont liés par un puissant champ magnétique.</explication>
+    </question>
+    <question>
+        <id>55</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/243.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quel Pokémon légendaire Électrik fait partie du trio des "fauves légendaires" de Johto ?</contenu>
+        <reponse1>Entei</reponse1>
+        <reponse2>Suicune</reponse2>
+        <reponse3>Électhor</reponse3>
+        <bonne_reponse>Raikou</bonne_reponse>
+        <point>1</point>
+        <explication>Raikou est l'un des trois fauves ressuscités par Ho-Oh. Il incarne la foudre qui a frappé la Tour Cendrée.</explication>
+    </question>
+    <question>
+        <id>56</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/181.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quelle est l'évolution finale de Wattouat, le mouton électrique de Johto ?</contenu>
+        <reponse1>Lainergie</reponse1>
+        <reponse2>Élekable</reponse2>
+        <reponse3>Luxray</reponse3>
+        <bonne_reponse>Pharamp</bonne_reponse>
+        <point>1</point>
+        <explication>Pharamp est l'évolution de Lainergie. La lumière de sa queue est si puissante qu'elle peut être vue depuis l'espace.</explication>
+    </question>
+    <question>
+        <id>57</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/309.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quel Pokémon Électrik de Hoenn, évolution de Dynavolt, est basé sur un loup ?</contenu>
+        <reponse1>Raikou</reponse1>
+        <reponse2>Luxray</reponse2>
+        <reponse3>Voltoutou</reponse3>
+        <bonne_reponse>Élecsprint</bonne_reponse>
+        <point>1</point>
+        <explication>Élecsprint est l'évolution de Dynavolt. Il court à la vitesse de l'éclair en créant des étincelles avec sa fourrure.</explication>
+    </question>
+    
+    <question>
+        <id>58</id>
+        <image>https://assets.pokemon.com/assets/cms2/img/pokedex/full/849.png</image>
+        <thematique>Électrik</thematique>
+        <contenu>Quel Pokémon Électrik/Poison de Galar, évolution de Toxizap, a une forme Aigüe et une forme Grave ?</contenu>
+        <reponse1>Smogogo (Galar)</reponse1>
+        <reponse2>Ectoplasma</reponse2>
+        <reponse3>Zéblitz</reponse3>
+        <bonne_reponse>Salarsen</bonne_reponse>
+        <point>2</point>
+        <explication>Salarsen est l'évolution de Toxizap. Il gratte les "cordes" sur son torse pour produire un son de guitare électrique.</explication>
+    </question>
+</data>

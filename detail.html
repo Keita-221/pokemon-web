@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <!-- Déclaration du type de document et de la langue -->
+    <meta charset="UTF-8">
+    <!-- Encodage des caractères pour supporter le français -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Configuration pour le responsive design sur les appareils mobiles -->
+
+    <!-- Lien vers le framework Bootstrap pour le styling -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Lien vers les icônes Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+    <!-- Titre de la page qui s'affiche dans l'onglet du navigateur -->
+    <title>Détail Question</title>
+</head>
+
+<!-- Application d'une couleur de fond beige/jaune pâle -->
+<body style="background-color: hwb(34 84% 2%);">
+
+    <!-- Container principal Bootstrap avec marge en haut -->
+    <div class="container mt-4">
+        <!-- Titre principal centré avec couleur bleue et marge en bas -->
+        <h1 class="text-center text-primary mb-4">
+            <!-- Icône d'information avec couleur bleue -->
+            <i class="bi bi-info-circle-fill text-primary"></i> Détail de la Question
+        </h1>
+
+        <!-- Système de grille Bootstrap -->
+        <div class="row">
+            <!-- Colonne de 4/12 pour l'image et le texte de la question -->
+            <div class="col-md-4">
+                <!-- Carte Bootstrap pour contenir l'image et le texte -->
+                <div class="card mb-3">
+                    <div class="card-body text-center">
+                        <!-- Image de la question qui sera chargée dynamiquement -->
+                        <img id="question-image" src="" alt="Pokémon" class="img-fluid mb-3">
+                        <!-- Texte de la question qui sera chargé dynamiquement -->
+                        <h4 id="question-text"></h4>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Colonne de 6/12 pour les informations détaillées -->
+            <div class="col-md-6">
+                <!-- Carte pour les informations générales de la question -->
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <!-- Titre de la section avec icône -->
+                        <h5>
+                            <i class="bi bi-card-list text-primary"></i> Informations
+                        </h5>
+                        <!-- Informations qui seront remplies dynamiquement -->
+                        <p><strong>ID :</strong> <span id="question-id"></span></p>
+                        <p><strong>Type :</strong> <span id="question-type"></span></p>
+                        <p><strong>Points :</strong> <span id="question-points"></span></p>
+                    </div>
+                </div>
+
+                <!-- Carte pour afficher la bonne réponse -->
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <!-- Titre de la section avec icône jaune -->
+                        <h5>
+                            <i class="bi bi-patch-check-fill text-warning"></i> Réponse
+                        </h5>
+                        <!-- Bonne réponse qui sera remplie dynamiquement -->
+                        <p><strong>Bonne réponse :</strong> <span id="question-reponse"></span></p>
+                    </div>
+                </div>
+
+                <!-- Carte pour l'explication de la réponse -->
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <!-- Titre de la section avec icône verte -->
+                        <h5>
+                            <i class="bi bi-chat-square-text-fill text-success"></i> Explication
+                        </h5>
+                        <!-- Explication qui sera remplie dynamiquement -->
+                        <p id="question-explication"></p>
+                    </div>
+                </div>
+
+                <!-- Section des boutons de navigation -->
+                <div class="text-center">
+                    <!-- Bouton pour retourner à la page d'apprentissage -->
+                    <a href="apprendre.html" class="btn btn-primary">
+                        <i class="bi bi-arrow-left-circle text-light"></i> Retour
+                    </a>
+                    <!-- Bouton pour retourner à la page d'accueil -->
+                    <a href="index.html" class="btn btn-secondary">
+                        <i class="bi bi-house-door-fill text-light"></i> Accueil
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script JavaScript personnalisé pour gérer les détails de la question -->
+    <script src="js/detail.js"></script>
+
+    <!-- Script Bootstrap pour les fonctionnalités interactives -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

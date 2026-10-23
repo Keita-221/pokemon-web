@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<!-- Déclaration du type de document HTML5 -->
+<html lang="fr">
+<!-- Début du document HTML avec langue française -->
+
+<head>
+    <!-- En-tête du document contenant les métadonnées -->
+    <meta charset="UTF-8">
+    <!-- Définition de l'encodage des caractères en UTF-8 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Configuration pour le responsive design - adaptation aux différentes tailles d'écran -->
+
+    <title>PokéQuiz - Statistiques</title>
+    <!-- Titre de la page qui s'affiche dans l'onglet du navigateur -->
+
+    <!-- Importation de Bootstrap CSS pour le styling -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Importation des icônes Bootstrap -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css">
+</head>
+
+<body style="background-color: hwb(34 84% 2%);">
+    <!-- Corps du document avec couleur de fond personnalisée (ton beige/jaune pâle) -->
+    
+    <div class="container mb">
+        <!-- Container Bootstrap pour centrer le contenu et gérer les marges -->
+        
+        <div class="text-center mb-4">
+            <!-- Section de titre centrée avec marge en bas -->
+            <h1 class="text-primary ">Statistiques PokéQuiz</h1>
+            <!-- Titre principal de la page en couleur bleue Bootstrap -->
+        </div>
+        
+        <div class="card ">
+            <!-- Carte Bootstrap pour contenir le contenu principal -->
+            <div class="text-center">
+                <!-- Section pour le titre de l'histogramme -->
+                <h3 class="mb-0">Histogramme des scores</h3>
+                <!-- Sous-titre pour l'histogramme sans marge en bas -->
+            </div>
+
+            <div class="card border-9">
+                <!-- Carte interne pour contenir le canvas de l'histogramme -->
+                <div class="d-flex justify-content-center mb-4">
+                    <!-- Div flex pour centrer horizontalement le canvas -->
+
+                    <!-- Canvas HTML pour dessiner l'histogramme avec dimensions définies -->
+                    <canvas id="monHistogramme" width="500" height="300"></canvas>
+                </div>
+            </div>
+        </div>
+
+        <!-- Section des boutons d'action -->
+        <div class="d-flex justify-content-center gap-3 mt-4">
+            <!-- Container flex pour centrer les boutons avec espacement et marge en haut -->
+
+            <!-- Bouton pour retourner au menu principal -->
+            <a href="index.html" class="btn btn-secondary">
+                <!-- Lien stylisé en bouton gris -->
+                <i class="bi bi-house-door-fill"></i> Retour au menu
+                <!-- Icône maison de Bootstrap et texte -->
+            </a>
+            
+            <!-- Bouton pour supprimer les statistiques -->
+            <button class="btn btn-danger" onclick="supprimerStatistiques()">
+                <!-- Bouton rouge avec événement onclick -->
+                <i class="bi bi-trash-fill"></i> Supprimer toutes les statistiques
+                <!-- Icône poubelle de Bootstrap et texte -->
+            </button>
+        </div>
+    </div>
+
+    <!-- Importation du script JavaScript pour la gestion des statistiques -->
+    <script src="js/statistique.js"></script>
+</body>
+
+</html>
