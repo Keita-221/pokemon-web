@@ -124,7 +124,7 @@ Puis ouvrir <http://localhost:8000>.
 - Projet académique, sans but commercial.
 - Les images proviennent de `assets.pokemon.com`. Pokémon et ses personnages sont des marques de The Pokémon Company / Nintendo.
 
-## 👤 Auteur
+
 
 ## 👤 Auteur
 
