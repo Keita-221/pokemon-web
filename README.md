@@ -126,5 +126,7 @@ Puis ouvrir <http://localhost:8000>.
 
 ## 👤 Auteur
 
-**Ibrahima Keita** : étudiant en informatique.
+## 👤 Auteur
+
+**Ibrahima Keita** : étudiant en 3ᵉ année de Licence Informatique Fondamentale et Appliquée (IFA).
 [Profil GitHub](https://github.com/Keita-221)
