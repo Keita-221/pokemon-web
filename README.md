@@ -2,10 +2,10 @@
 
 Application web de quiz sur l'univers Pokémon, réalisée dans le cadre d'un projet universitaire de **développement web côté client**.
 
-**👉 [Essayer le site en ligne](https://keita-221.github.io/pokemon-web/)**
+** [Essayer le site en ligne](https://keita-221.github.io/pokemon-web/)**
 
 ---
-## 📸 Aperçu
+##  Aperçu
 
 | Accueil | Jeu |
 |---|---|
@@ -15,15 +15,15 @@ Application web de quiz sur l'univers Pokémon, réalisée dans le cadre d'un pr
 |---|---|
 | ![Mode Apprendre](img/apprendre.png) | ![Détail d'une question](img/detail.png) |
 
-## ✨ Fonctionnalités
+##  Fonctionnalités
 
-- 🎯 **Jeu de quiz** avec choix de la thématique et du nombre de questions
-- 📚 **Mode « Apprendre »** : tableau de toutes les questions avec pagination, filtre, recherche et tri
-- 🔍 **Page de détail** pour chaque question
-- 📊 **Statistiques** : historique des scores sous forme d'histogramme coloré
-- 💾 **Sauvegarde locale** des scores dans le navigateur (`localStorage`)
+-  **Jeu de quiz** avec choix de la thématique et du nombre de questions
+-  **Mode « Apprendre »** : tableau de toutes les questions avec pagination, filtre, recherche et tri
+-  **Page de détail** pour chaque question
+- **Statistiques** : historique des scores sous forme d'histogramme coloré
+-  **Sauvegarde locale** des scores dans le navigateur (`localStorage`)
 
-## 🛠️ Technologies
+##  Technologies
 
 | Domaine | Outils |
 |---|---|
@@ -32,7 +32,7 @@ Application web de quiz sur l'univers Pokémon, réalisée dans le cadre d'un pr
 | Données | Fichier XML (`data/bdd.xml`, 58 questions) lu avec `XMLHttpRequest` |
 | Graphique | Élément `<canvas>` pour l'histogramme |
 
-## 📁 Structure du projet
+##  Structure du projet
 
 ```
 projetweb/
@@ -48,9 +48,9 @@ projetweb/
 
 ---
 
-## 📖 Manuel d'utilisation
+##  Manuel d'utilisation
 
-### 🎯 Le jeu
+###  Le jeu
 
 1. Depuis l'accueil, choisis un thème (Feu, Eau, Plante, Électrik) ou toutes les questions.
 2. Clique sur **Démarrer**.
@@ -79,7 +79,7 @@ projetweb/
 
 Les réponses sont **mélangées aléatoirement** à chaque question, et le bouton **Rejouer** relance une partie avec les mêmes paramètres.
 
-### 📚 L'interface « Apprendre »
+###  L'interface « Apprendre »
 
 Le tableau charge automatiquement toutes les questions depuis le XML et affiche pour chacune : l'ID, l'image, le contenu, la thématique, la bonne réponse, les points et un lien **Détails**.
 
@@ -89,7 +89,7 @@ Le tableau charge automatiquement toutes les questions depuis le XML et affiche 
 - **Tri** : par nombre de points croissant, sur les questions filtrées ou recherchées.
 - **Détails** : la page complète d'une question (image, thématique, contenu, réponse, points, explication).
 
-### 📊 Les statistiques
+###  Les statistiques
 
 Chaque partie terminée est enregistrée dans le `localStorage` du navigateur (date, score, score maximum, thème) et affichée sous forme d'**histogramme** :
 
@@ -103,7 +103,7 @@ Chaque barre indique le score (X/Y), la date et l'heure, et le thème. Le bouton
 
 ---
 
-## 💻 Lancer le projet en local
+##  Lancer le projet en local
 
 Le XML est chargé avec une requête HTTP : ouvrir `index.html` par double-clic **ne fonctionne pas** (blocage CORS). Il faut un petit serveur local.
 
@@ -119,7 +119,7 @@ python3 -m http.server 8000
 
 Puis ouvrir <http://localhost:8000>.
 
-## 📝 Notes
+##  Notes
 
 - Projet académique, sans but commercial.
 - Les images proviennent de `assets.pokemon.com`. Pokémon et ses personnages sont des marques de The Pokémon Company / Nintendo.
