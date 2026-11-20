@@ -56,9 +56,9 @@ projetweb/
 2. Clique sur **Démarrer**.
 3. Sélectionne une réponse parmi les quatre propositions (elle devient bleue, tu peux changer d'avis).
 4. Clique sur **Valider** :
-   - 🟩 la bonne réponse devient verte ;
-   - 🟥 ta mauvaise réponse devient rouge ;
-   - ⬜ les autres deviennent grises.
+   -  la bonne réponse devient verte ;
+   -  ta mauvaise réponse devient rouge ;
+   -  les autres deviennent grises.
 5. Clique sur **Suivant** pour continuer jusqu'à l'écran de résultat.
 
 **Paramètres dans l'adresse** : `jeu.html?theme=Feu&count=15`
@@ -95,9 +95,9 @@ Chaque partie terminée est enregistrée dans le `localStorage` du navigateur (d
 
 | Couleur | Performance |
 |---|---|
-| 🟢 Vert | ≥ 80 % de bonnes réponses |
-| 🟡 Jaune | entre 50 % et 79 % |
-| 🔴 Rouge | < 50 % |
+|  Vert | ≥ 80 % de bonnes réponses |
+|  Jaune | entre 50 % et 79 % |
+|  Rouge | < 50 % |
 
 Chaque barre indique le score (X/Y), la date et l'heure, et le thème. Le bouton de suppression efface tout l'historique.
 
@@ -126,7 +126,7 @@ Puis ouvrir <http://localhost:8000>.
 
 
 
-## 👤 Auteur
+##  Auteur
 
 **Ibrahima Keita** : étudiant en 3ᵉ année de Licence Informatique Fondamentale et Appliquée (IFA).
 [Profil GitHub](https://github.com/Keita-221)
